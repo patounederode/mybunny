@@ -108,6 +108,7 @@ wortelImg.addEventListener("click", function () {
         'img/mybunnywortel4.png',
         'img/mybunnywortel5.png',
         'img/mybunnywortel6.png',
+        'img/mybunnywortel7.png',
         'img/mybunnywortel7.png'
     ];
     animateImages(wortelImages);
